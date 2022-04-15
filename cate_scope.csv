@@ -1,0 +1,16 @@
+Emissions ,Scope ,Cate_1,Cate_2,Cate_3
+emissions ,Scope 1,Mobile Combustion,On-raod Vehicles,Company Vehicles
+emissions ,Scope 1,Mobile Combustion,On-raod Vehicles,Combination Truck
+emissions ,Scope 1,Mobile Combustion,Non-road Vehicles,Forklifts & Non-road Equipments
+emissions ,Scope 1,Mobile Combustion,Non-road Vehicles,Construction Equipments
+emissions ,Scope 1,Fugitive Combustion,Refrigerated transport,Refrigerated transport
+emissions ,Scope 1,Fugitive Combustion,Industrial process refrigeration,Industrial process refrigeration
+emissions ,Scope 1,Fugitive Combustion,Cold storage warehouses,Cold storage warehouses
+emissions ,Scope 1,Fugitive Combustion,Mobile air conditioning,Mobile air conditioning
+emissions ,Scope 1,Stationary Combustion Emission,Boilers,Boilers
+emissions ,Scope 1,Stationary Combustion Emission,Combustion Turbines,Combustion Turbines
+emissions ,Scope 1,Stationary Combustion Emission,Process Heaters,Process Heaters
+emissions ,Scope 1,Stationary Combustion Emission,Incinerators,Incinerators
+emissions ,Scope 2,Electricity,Electricity,Electricity
+emissions ,Scope 2,Gas,Gas,Gas
+emissions ,Scope 2,Heating Oil,Heating Oil,Heating Oil
