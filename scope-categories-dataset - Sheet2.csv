@@ -1,0 +1,16 @@
+Emission,Scope ,C1,C2,C3
+emission,scope 1,Mobile Combustion,On-raod Vehicles,Company Vehicles
+emission,scope 1,Mobile Combustion,On-raod Vehicles,Combination Truck
+emission,scope 1,Mobile Combustion,Non-road Vehicles,Forklifts & Non-road Equipments
+emission,scope 1,Mobile Combustion,Non-road Vehicles,Construction Equipments
+emission,scope 1,Fugitive Combustion,Refrigerated transport,Refrigerated transport
+emission,scope 1,Fugitive Combustion,Industrial process refrigeration,Industrial process refrigeration
+emission,scope 1,Fugitive Combustion,Cold storage warehouses,Cold storage warehouses
+emission,scope 1,Fugitive Combustion,Mobile air conditioning,Mobile air conditioning
+emission,scope 1,Stationary Combustion Emission,Boilers,Boilers
+emission,scope 1,Stationary Combustion Emission,Combustion Turbines,Combustion Turbines
+emission,scope 1,Stationary Combustion Emission,Process Heaters,Process Heaters
+emission,scope 1,Stationary Combustion Emission,Incinerators,Incinerators
+emission,scope 2,Electricity,Electricity,Electricity
+emission,scope 2,Gas,Gas,Gas
+emission,scope 2,Heating Oil,Heating Oil,Heating Oil
